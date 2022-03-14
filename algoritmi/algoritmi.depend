@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647294977 source:c:\users\radu\desktop\cbdl\algoritmi\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<ctime>
+	<algorithm>
+	<random>
+
